@@ -19,7 +19,6 @@
     pipenv install yfinance
     pipenv install pandas
     pipenv install requests
-    pipenv install selenium
     pipenv install beautifulsoup4
     pipenv install pandas_ta
 
